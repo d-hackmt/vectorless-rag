@@ -1,5 +1,8 @@
 # Vectorless RAG
 
+<img width="850" height="390" alt="image" src="https://github.com/user-attachments/assets/7a0cc61d-f523-4744-b487-43d2efca665d" />
+
+
 Ask questions about any PDF — no vector embeddings, no chunking.
 
 Powered by [PageIndex](https://pageindex.ai/) + [Groq](https://console.groq.com/keys).
